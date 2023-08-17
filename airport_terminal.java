@@ -31,7 +31,7 @@ public class airport_terminal {
             System.out.println("  2. View Trip");
             System.out.println("  3. Manage Trip");
             System.out.println("  4. Checkout");
-            System.out.println("  5. Exit Mejia Airlines");
+            System.out.println("  5. Exit Tarkov Airlines");
 
             option = userScnr.nextInt();
 
